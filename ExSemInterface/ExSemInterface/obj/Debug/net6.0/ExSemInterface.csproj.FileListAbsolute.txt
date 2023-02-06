@@ -1,0 +1,15 @@
+C:\DotNet\ExSemInterface\ExSemInterface\obj\Debug\net6.0\ExSemInterface.csproj.AssemblyReference.cache
+C:\DotNet\ExSemInterface\ExSemInterface\obj\Debug\net6.0\ExSemInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet\ExSemInterface\ExSemInterface\obj\Debug\net6.0\ExSemInterface.AssemblyInfoInputs.cache
+C:\DotNet\ExSemInterface\ExSemInterface\obj\Debug\net6.0\ExSemInterface.AssemblyInfo.cs
+C:\DotNet\ExSemInterface\ExSemInterface\obj\Debug\net6.0\ExSemInterface.csproj.CoreCompileInputs.cache
+C:\DotNet\ExSemInterface\ExSemInterface\bin\Debug\net6.0\ExSemInterface.exe
+C:\DotNet\ExSemInterface\ExSemInterface\bin\Debug\net6.0\ExSemInterface.deps.json
+C:\DotNet\ExSemInterface\ExSemInterface\bin\Debug\net6.0\ExSemInterface.runtimeconfig.json
+C:\DotNet\ExSemInterface\ExSemInterface\bin\Debug\net6.0\ExSemInterface.dll
+C:\DotNet\ExSemInterface\ExSemInterface\bin\Debug\net6.0\ExSemInterface.pdb
+C:\DotNet\ExSemInterface\ExSemInterface\obj\Debug\net6.0\ExSemInterface.dll
+C:\DotNet\ExSemInterface\ExSemInterface\obj\Debug\net6.0\refint\ExSemInterface.dll
+C:\DotNet\ExSemInterface\ExSemInterface\obj\Debug\net6.0\ExSemInterface.pdb
+C:\DotNet\ExSemInterface\ExSemInterface\obj\Debug\net6.0\ExSemInterface.genruntimeconfig.cache
+C:\DotNet\ExSemInterface\ExSemInterface\obj\Debug\net6.0\ref\ExSemInterface.dll
